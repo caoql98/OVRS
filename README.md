@@ -12,6 +12,7 @@ or Google Driver  [**Datasets**](https://drive.google.com/file/d/1BsVaxPAKNQnH9-
 
 
 # BibTeX
+```BibTeX
 @article{cao2024open,
   title={Open-Vocabulary Remote Sensing Image Semantic Segmentation},
   author={Cao, Qinglong and Chen, Yuntian and Ma, Chao and Yang, Xiaokang},
