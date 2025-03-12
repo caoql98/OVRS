@@ -1,5 +1,5 @@
 # OVRS
-Open-Vocabulary Remote Sensing Image Semantic Segmentation
+Open-Vocabulary High-Resolution Remote Sensing Image Semantic Segmentation
 
 
 ### Datasets and Data Preparation
