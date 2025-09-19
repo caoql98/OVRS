@@ -13,9 +13,10 @@ or Google Driver  [**Datasets**](https://drive.google.com/file/d/1BsVaxPAKNQnH9-
 
 # BibTeX
 ```BibTeX
-@article{cao2024open,
-  title={Open-Vocabulary Remote Sensing Image Semantic Segmentation},
+@article{cao2025open,
+  title={Open-Vocabulary High-Resolution Remote Sensing Image Semantic Segmentation},
   author={Cao, Qinglong and Chen, Yuntian and Ma, Chao and Yang, Xiaokang},
-  journal={arXiv preprint arXiv:2409.07683},
-  year={2024}
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2025},
+  publisher={IEEE}
 }
